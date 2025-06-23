@@ -13,7 +13,7 @@ It integrates **Neo4j**, **PMBOK knowledge graphs**, and **LLMs** to provide rea
 - 📌 Kanban-style task management
 - 👥 Track team members and project scope
 - 🧠 Integrate structured PMBOK and Reddit-based graph insights
-- 🤖 Generate AI summaries and recommendations with LLaMA 3 via Ollama
+- 🤖 Generate AI summaries and recommendations with LLaMA 3.2 via Ollama
 - 🔐 Uses `.env` variables for secure configuration
 
 ---
@@ -23,7 +23,7 @@ It integrates **Neo4j**, **PMBOK knowledge graphs**, and **LLMs** to provide rea
 1. **Clone this repo:**
 
    ```bash
-   git clone https://github.com/your-username/project-management-dashboard.git
+   git clone https://github.com/ChaymaRhaiem/GraphRAG-PM-Graph-RAG-for-Project-Management
    cd project-management-dashboard ```
 
 ### Create a .env file:
